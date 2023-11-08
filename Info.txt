@@ -1,0 +1,5 @@
+Student_id : 2213170018
+Student Name : Supanut Puangsagun
+Major : IT
+Level : 2
+Faculty :Information Technology
