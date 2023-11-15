@@ -1,0 +1,4 @@
+Id : 2213170018
+Name-Surname : Supanut Puangsagun
+Date : Nov-15-2023
+Topic : Input Data
