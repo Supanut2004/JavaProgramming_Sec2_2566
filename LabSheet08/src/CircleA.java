@@ -1,0 +1,22 @@
+
+public class CircleA {
+	private double radius;
+	private String color;
+	
+	public void setRadius(double ra) {
+		radius = ra;
+	}
+	
+	public void setColor(String co) {
+		color = co;
+	}
+	
+	public String getColor() {
+		return color;
+	}
+	
+	public Double getArea() {
+		return Math.PI * radius * radius;
+	}
+
+}
